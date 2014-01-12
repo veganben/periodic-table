@@ -1,0 +1,10 @@
+{
+  "name" : "periodic-table",
+  "description" : "The periodic table of the elements, JSON formatted",
+  "homepage" : "https://github.com/veganben/periodic-table/",
+  "keywords" : ["chemistry", "chemical", "periodic", "elements", "atomic numbers", "atom", "atoms", "Periodensystem"],
+  "author" : "Ben Green <me@bengreen.org.uk>",
+  "contributors" : [],
+  "dependencies" : [],
+  "version" : "0.1"
+}
